@@ -1,0 +1,26 @@
+{
+    "format_version": 1,
+    "header":
+    {
+        "name": "§e§k[§r D31 §e§k]§r §l§aNight Vision§r v3.2",
+        "description": "Contact Me:\nDiscord: §eJusttMe9515§r",
+        "uuid": "f4ccf69c-9a67-4c02-b653-8aaf9fabcdb9",
+        "min_engine_version": [1, 8, 0],
+        "version": [3, 2, 0]
+    },
+    
+    "modules":
+    [
+        {
+            "type": "resources",
+            "description": "",
+            "uuid": "cf1e0938-ffd8-4e71-ba17-ff64299d7a38",
+            "version": [3, 2, 0]
+        }
+    ],
+    
+    "metadata":
+    {
+        "authors": ["Dhefa31"]
+    }
+}
